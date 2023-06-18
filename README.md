@@ -13,5 +13,5 @@ I highly leverage Go to build future-proof, performant and scalable backends, an
 
 ## 📫 Contact
 
-To contact me quickly and easily, [DM me on Twitter](https://twitter.com/cneilsdev).
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/cneilsdev).</br>
 If it makes more sense, you can also email me: cneils@pm.me
